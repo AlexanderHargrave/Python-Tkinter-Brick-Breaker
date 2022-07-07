@@ -1,0 +1,7 @@
+# This is a list of the cheats in the brick breaker game on Tkinter
+<Up Arrow>: Increases speed of ball, theres a limit
+<Down Arrow>: Decrease speed of ball, theres a lower limit
+<qwerty>: Done by typing the letters in order, gives 15 lives
+<123>: Done by typing the numbers in order, allows for all bricks to be destroyed in one hit
+<321>: Cancels the <123> cheat
+Developers cheat: Changing the code where developer cheat is stated, allows for control of ball through <a> and <d>
